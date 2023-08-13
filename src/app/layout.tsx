@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "PDF Teacher",
-  description: "Converse com seu PDF",
+  description: "Converse com su PDF",
 };
 
 export default function RootLayout({
